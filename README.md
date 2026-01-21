@@ -5,7 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Skills](https://img.shields.io/badge/Skills-200%2B-blue.svg)](#-skill-categories)
-[![GitHub](https://img.shields.io/badge/GitHub-miny__agent-black.svg)](https://github.com/sieun9711/miny_agent)
+[![GitHub](https://img.shields.io/badge/GitHub-miny__agent-black.svg)](https://github.com/miny5/miny_agent)
 
 [English](#-quick-start) | [한국어](#-한국어-명령어-시스템-사용-가이드)
 
@@ -19,7 +19,7 @@
 
 ```bash
 # 프로젝트 루트 폴더에서 실행
-git submodule add https://github.com/sieun9711/miny_agent .agent
+git submodule add https://github.com/miny5/miny_agent .agent
 ```
 
 ### 2단계: 한국어 명령어 사용
