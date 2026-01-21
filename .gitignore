@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local configuration
+.env
+.env.local
+*.local
+
+# Disabled skills (kept locally but not tracked)
+.disabled/
+
+# Generated files
+skills_index.json
+*.log
+
+# Node (if any scripts use it)
+node_modules/
