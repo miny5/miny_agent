@@ -1,6 +1,7 @@
 # 🚀 Antigravity Awesome Skills (miny_agent)
 
-> 200개 이상의 유용한 AI 에이전트 스킬과 **한국어 명령어 시스템**이 통합된 Antigravity 개발 워크플로우 저장소입니다.
+> 200개 이상의 유용한 AI 에이전트 스킬과 **한국어 명령어 시스템**이 통합된 Antigravity 개발 워크플로우 저장소입니다.  
+> 원본 스킬 출처: [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Skills](https://img.shields.io/badge/Skills-200%2B-blue.svg)](#-skill-categories)
