@@ -28,7 +28,8 @@ Thumbs.db
 .disabled/
 
 # Generated files
-skills_index.json
+# skills_index.json (추적 허용을 위해 주석 처리)
+# skills_index.json
 *.log
 
 # Node (if any scripts use it)

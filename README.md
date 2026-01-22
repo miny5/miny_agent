@@ -36,7 +36,7 @@ git submodule add https://github.com/miny5/miny_agent .agent
 
 ### 3단계: 커스텀 명령어 추가
 
-`korean_commands.json` 파일을 수정하여 나만의 한국어 명령어와 스킬을 매핑할 수 있습니다.
+`.agent/korean_commands.json` 파일을 수정하여 나만의 한국어 명령어와 스킬을 매핑할 수 있습니다.
 
 ---
 
