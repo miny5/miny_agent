@@ -20,6 +20,9 @@
 ```bash
 # 프로젝트 루트 폴더에서 실행
 git submodule add https://github.com/miny5/miny_agent .agent
+
+# 최신 상태로 업데이트 (파일이 안 보이거나 작동 안 할 때)
+git submodule update --remote --merge
 ```
 
 ### 2단계: 한국어 명령어 사용
